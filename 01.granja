@@ -1,2 +1,0 @@
-quantidadeOvos = int(input())
-print(f'{quantidadeOvos // 12}\n{quantidadeOvos % 12}')

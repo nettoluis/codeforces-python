@@ -1,4 +1,0 @@
-segunda, terca, quarta, quinta, sexta = int(input()), int(input()), int(input()), int(input()), int(input())
-total = segunda + terca + quarta + quinta + sexta
-media, intervalos = total / 5, total // 60
-print(f'Você perdeu {total} min na semana (média de {media:.1f} min por dia).\nDaria para aproveitar {intervalos} intervalo(s) para estudar.')
