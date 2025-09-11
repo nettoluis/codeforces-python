@@ -1,0 +1,3 @@
+alqueireMineiro, alqueireNorte, alqueirePaulista = 48400, 27225, 24200
+area = int(input()) * int(input())
+print(f'A fazenda tem de área:\n{area/alqueireMineiro:.3f} alqueire(s) mineiro ou\n{area / alqueireNorte:.3f} alqueire(s) do norte ou\n{area / alqueirePaulista:.3f} alqueire(s) paulista.')
