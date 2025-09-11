@@ -11,8 +11,6 @@
 
 Este repositório serve como um portfólio e diário de aprendizado das minhas jornadas em programação competitiva, focando nos problemas da plataforma **Codeforces**. Aqui, você encontrará minhas soluções para diversos problemas, todas escritas em **Python**.
 
-A organização segue a estrutura de pastas por número de round (`/round_xxx`) ou por número de problema (`/problema_xxxx`), facilitando a navegação e a busca por soluções específicas.
-
 ## 🚀 Objetivo
 
 O principal objetivo deste repositório é:
